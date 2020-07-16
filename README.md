@@ -9,4 +9,4 @@ Icinga2 notification integration with webex teams
 
 ## Overview
 
-This is a port of Richard Hauswald's icinga2-slack-notifications made to work with webex teams.
+This is a port of https://github.com/nisabek/icinga2-slack-notifications made to work with webex teams.
